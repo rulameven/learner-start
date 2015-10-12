@@ -4,7 +4,7 @@ LearnerStart - objects and JSON
 
 I wanted to have a way to track my self-directed learning efforts, like various
 tutorials or online courses. I wanted the data to be easily accessible in a 
-plain file, not in a database somewhere. So I built a model (Subject\Course\
+plain file, not in a database somewhere. So I built a model (Subject-Course-
 Lesson) and methods to store these objects in JSON. 
 
 Here's the basic code for the project. I intend to build upon it, but want to
